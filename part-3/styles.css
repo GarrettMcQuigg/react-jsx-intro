@@ -1,0 +1,41 @@
+body {
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+.container {
+  color: white;
+  border: 1px solid white;
+  margin: 0 auto 6px;
+  width: 20vw;
+}
+
+.name {
+  text-align: center;
+  margin: 8px 0 0 0;
+}
+
+.age {
+  text-align: center;
+  margin: 5px 0 0 0;
+}
+
+.info {
+  text-align: center;
+  margin: 5px 0 0 0;
+}
+
+.hobbies {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.vote {
+  text-align: center;
+}

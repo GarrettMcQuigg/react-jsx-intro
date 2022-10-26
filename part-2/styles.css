@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+.tweet {
+  border: solid 1px black;
+  padding: 0 10px;
+  width: 30vw;
+  block-size: fit-content;
+  margin: 0 auto 6px;
+  box-shadow: 1px 1px 1px 1px #cacaca;
+}
+
+.name {
+  margin: 8px 0;
+}
+
+.username {
+  text-decoration: underline;
+  margin: 0 4px 0 0;
+  font-size: 13px;
+}
+
+.date {
+  text-decoration: underline;
+  margin: 0 0 0 4px;
+  font-size: 13px;
+}
+
+.message {
+}
